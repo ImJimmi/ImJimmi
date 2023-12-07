@@ -68,7 +68,7 @@
 
 <p>Various interesting projects during my time studying Audio and Music Technology at <a href="https://www.uwe.ac.uk/">UWE</a>. Most notably a neural-network-enhanced EQ application, NNEQ (top), and Elliptical, a looping audio player with fun visuals (bottom).</p>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## JUCE
 
