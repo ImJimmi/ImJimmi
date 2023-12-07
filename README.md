@@ -6,7 +6,7 @@
 <p><em>Author<br>2021-Present</em></p>
 <p>A bundle of JUCE modules that completely overhaul the frontend development experience using concepts from popular web frontend frameworks like React.</p>
 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 ## Gramotech
 
@@ -22,7 +22,7 @@
 <p>Contortion-24 (2020) - distortion and saturation plugin, featuring <em>"A WEIRD DEMO"</em> according to <a href="https://www.youtube.com/watch?v=cqasun5nzmA">some guy on YouTube</a>. He was right tbf.</p>
 <p>Not currently trading as I'm working on getting things back up and running.</p>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 ## Focusrite Control 2
 
@@ -30,7 +30,7 @@
 <p><em>Developer, General Nuisance<br>2023 - Present</em></p>
 <p>Focusrite's revamped control software for the 4th generation Scarlett range of audio interfaces.</p>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 # Stuff I've worked on previously
 
@@ -41,7 +41,7 @@
 <p>Bundle of audio plugins mostly built using the stock DSP tools provided by JUCE.</p>
 <p>I may come back to this in the future, but no immediate plans.</p>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 ## Vocaster Hub
 
@@ -49,7 +49,7 @@
 <p><em>Developer<br>2021 - 2022</em></p>
 <p>Control software for Focusrite's new Vocaster range of audio interfaces targetted at Podcasters.</p>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 ## Red Plug-In Suite 2
 
@@ -57,7 +57,7 @@
 <p><em>Lead Developer<br>2022 - 2023</em></p>
 <p>Migrated Focusrite's most widely used plugin bundle, the Red 2 EQ and Red 3 Compressor, from iPlug over to JUCE to add Apple Silicon support.</p>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 ## University of the West of England
 
@@ -68,7 +68,7 @@
 
 <p>Various interesting projects during my time studying Audio and Music Technology at <a href="https://www.uwe.ac.uk/">UWE</a>. Most notably a neural-network-enhanced EQ application, NNEQ (top), and Elliptical, a looping audio player with fun visuals (bottom).</p>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## JUCE
 
@@ -77,7 +77,7 @@
 
 Proud author of a commit that added an `= 0` default argument to a function hardly anyone uses, thus earning myself bragging rights as an official JUCE contributor.
 
-<br><br><br><br>
+<br><br>
 
 ## Alliance of Numpties
 
