@@ -57,7 +57,7 @@
 <p><em>Lead Developer<br>2022 - 2023</em></p>
 <p>Migrated Focusrite's most widely used plugin bundle, the Red 2 EQ and Red 3 Compressor, from iPlug over to JUCE to add Apple Silicon support.</p>
 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 ## University of the West of England
 
@@ -68,7 +68,7 @@
 
 <p>Various interesting projects during my time studying Audio and Music Technology at <a href="https://www.uwe.ac.uk/">UWE</a>. Most notably a neural-network-enhanced EQ application, NNEQ (top), and Elliptical, a looping audio player with fun visuals (bottom).</p>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## JUCE
 
