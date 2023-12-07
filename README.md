@@ -41,7 +41,7 @@
 <p>Bundle of audio plugins mostly built using the stock DSP tools provided by JUCE.</p>
 <p>I may come back to this in the future, but no immediate plans.</p>
 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 ## Vocaster Hub
 
@@ -49,7 +49,7 @@
 <p><em>Developer<br>2021 - 2022</em></p>
 <p>Control software for Focusrite's new Vocaster range of audio interfaces targetted at Podcasters.</p>
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Red Plug-In Suite 2
 
@@ -57,7 +57,7 @@
 <p><em>Lead Developer<br>2022 - 2023</em></p>
 <p>Migrated Focusrite's most widely used plugin bundle, the Red 2 EQ and Red 3 Compressor, from iPlug over to JUCE to add Apple Silicon support.</p>
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 ## University of the West of England
 
