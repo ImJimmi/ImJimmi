@@ -20,7 +20,6 @@
 <p>Pompeii (2018) - multi-band dynamics processor.</p>
 <p>GT Analyser (2019) - free spectrum analyser plugin, described as <em>"the most beautiful analyzer I've ever seen"</em> by <a href="https://www.reddit.com/r/audioengineering/comments/nri3e0/gramotech_spectrum_analyzer_is_the_most_beautiful/">some guy on reddit</a>.</p>
 <p>Contortion-24 (2020) - distortion and saturation plugin, featuring <em>"A WEIRD DEMO"</em> according to <a href="https://www.youtube.com/watch?v=cqasun5nzmA">some guy on YouTube</a>. He was right tbf.</p>
-<p>Not currently trading as I'm working on getting things back up and running.</p>
 
 <br><br><br><br><br><br><br><br><br><br><br>
 
