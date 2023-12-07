@@ -22,7 +22,7 @@
 <p>Contortion-24 (2020) - distortion and saturation plugin, featuring <em>"A WEIRD DEMO"</em> according to <a href="https://www.youtube.com/watch?v=cqasun5nzmA">some guy on YouTube</a>. He was right tbf.</p>
 <p>Not currently trading as I'm working on getting things back up and running.</p>
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 
 ## Focusrite Control 2
 
@@ -30,7 +30,7 @@
 <p><em>Developer, General Nuisance<br>2023 - Present</em></p>
 <p>Focusrite's revamped control software for the 4th generation Scarlett range of audio interfaces.</p>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 # Stuff I've worked on previously
 
