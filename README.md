@@ -48,7 +48,7 @@
 
 <img src="./images/cx605.jpg" align="right" width="400"/>
 <p><em>Developer, Designer<br>2020</em></p>
-<p>An open-source compressor plugin I started working on but never finished. The idea was to have three different "characters" - Digital, whch would aim to keep the signal as clean as possible, Vintage, which would apply saturation, and Look-Ahead, which is self-explainatory.</p>
+<p>An open-source compressor plugin I started working on but never finished. The idea was to have three different "characters" - Digital, which would aim to keep the signal as clean as possible, Vintage, which would apply saturation, and Look-Ahead, which is self-explainatory.</p>
 
 <br><br><br><br><br><br><br><br><br><br><br>
 
