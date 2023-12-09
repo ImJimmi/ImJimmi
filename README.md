@@ -44,6 +44,14 @@
 
 <br><br><br><br><br><br><br><br><br><br>
 
+## cx605
+
+<img src="./images/cx605.jpg" align="right" width="400"/>
+<p><em>Author<br>2020</em></p>
+<p>An open-source compressor plugin I started working on but never finished. The idea was to have three different "characters" - Digital, whch would aim to keep the signal as clean as possible, Vintage, which would apply saturation, and Look-Ahead, which is self-explainatory.</p>
+
+<br><br><br><br><br><br><br><br>
+
 ## Vocaster Hub
 
 <a href="https://focusrite.com/vocaster"><img src="https://i0.wp.com/sixcolors.com/wp-content/uploads/2022/10/vocasterhub-6c.png?ssl=1" align="right" width="500"/></a>
