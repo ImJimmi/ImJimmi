@@ -7,7 +7,7 @@
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ImJimmi/JIVE?logo=github&style=for-the-badge">
 <p>A bundle of JUCE modules that completely overhaul the frontend development experience using concepts from popular web frontend frameworks like React.</p>
 
-<br><br><br><br><br><br>
+<br><br><br><br>
 
 ## Gramotech
 
