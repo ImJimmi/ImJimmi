@@ -36,7 +36,7 @@
 
 ## Contrast
 
-<a href="https://github.com/ImJimmi/Contrast"><img src="https://github.com/ImJimmi/Contrast/blob/master/Press/Resources/Screenshot.png?raw=true" align="right" width="500"/></a>
+<a href="https://github.com/ImJimmi/Contrast"><img src="https://github.com/ImJimmi/Contrast/blob/master/Press/Resources/Screenshot.png?raw=true" align="right" width="400"/></a>
 <p><em>Author<br>2020 - 2022</em></p>
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ImJimmi/Contrast?logo=github&style=for-the-badge">
 <p>Bundle of audio plugins mostly built using the stock DSP tools provided by JUCE.</p>
