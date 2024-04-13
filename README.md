@@ -81,7 +81,7 @@
 
 ## JUCE
 
-<a href="https://forum.juce.com/u/imjimmi"><img src="https://camo.githubusercontent.com/e8f9c1258f9412229ee8a525d6fdb5c2a80bc6ee371cd6daf8c977e23c693823/68747470733a2f2f6173736574732e6a7563652e636f6d2f6a7563652f4a5543455f62616e6e65725f6769746875622e706e67" align="right" width="500"/></a>
+<a href="https://forum.juce.com/u/imjimmi"><img src="https://assets.juce.com/juce/JUCE_banner_github.png" align="right" width="500"/></a>
 <p><em>Listed contributor, regular forum contributor<br>2017-Present</em></p>
 
 Proud author of a commit that added an `= 0` default argument to a function hardly anyone uses, thus earning myself bragging rights as an official JUCE contributor.
