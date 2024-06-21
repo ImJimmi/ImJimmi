@@ -22,15 +22,14 @@
 <p>GT Analyser (2019) - free spectrum analyser plugin, described as <em>"the most beautiful analyzer I've ever seen"</em> by <a href="https://www.reddit.com/r/audioengineering/comments/nri3e0/gramotech_spectrum_analyzer_is_the_most_beautiful/">some guy on reddit</a>.</p>
 <p>Contortion-24 (2020) - distortion and saturation plugin, featuring <em>"A WEIRD DEMO"</em> according to <a href="https://www.youtube.com/watch?v=cqasun5nzmA">some guy on YouTube</a>. He was right tbf.</p>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Focusrite Control 2
-
-<a href="https://focusrite.com/scarlett/4th-generation#:~:text=in%20the%20business.-,Focusrite%20Control%202,-Focusrite%20Control%202"><img src="https://focusrite.com/images/stencil/2560w/image-manager/4i4-mixer.png?t=1693928330" align="right" width="500"/></a>
+<a href="https://focusrite.com/scarlett/4th-generation#:~:text=in%20the%20business.-,Focusrite%20Control%202,-Focusrite%20Control%202"><img width="500" align="right" alt="Focusrite Control 2" src="https://github.com/ImJimmi/ImJimmi/assets/19873870/8bb76bbc-0f3f-4946-9da1-4471006e4f80"></a>
 <p><em>Developer, General Nuisance<br>2023 - Present</em></p>
 <p>Focusrite's revamped control software for the 4th generation Scarlett range of audio interfaces.</p>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 # Stuff I've worked on previously
 
@@ -42,7 +41,7 @@
 <p>Bundle of audio plugins mostly built using the stock DSP tools provided by JUCE.</p>
 <p>I may come back to this in the future, but no immediate plans.</p>
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 ## cx605
 
