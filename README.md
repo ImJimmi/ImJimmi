@@ -93,6 +93,6 @@ Proud author of a commit that added an `= 0` default argument to a function hard
 <p><em>Co-founder, the good-looking one<br>1996 - Present</em></p>
 <p>Occasionally dabble in game development with my older little brother and fellow Numpty, <a href="https://github.com/ollij93">@ollij93</a>.</p>
 
-<p>Most recently placing 3rd out of 60 in the <a href="https://itch.io/jam/mini-jame-gam-24">Mini Jame Gam 24</a> with our game, <a href="https://itch.io/jam/mini-jame-gam-24/rate/2386890">Terry Toastington</a>.</p>
+<p>Most recently winning the <a href="https://itch.io/jam/mini-jame-gam-37/results">Mini Jame Gam 37</a> with our game, <a href="https://ollij93.itch.io/agent-of-dream">Agent of D.Re.AM</a>, and previously placing 3rd out of 60 in the <a href="https://itch.io/jam/mini-jame-gam-24">Mini Jame Gam 24</a> with our game, <a href="https://itch.io/jam/mini-jame-gam-24/rate/2386890">Terry Toastington</a>.</p>
 
 <br><br><br><br>
