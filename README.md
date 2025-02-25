@@ -1,3 +1,5 @@
+<p align="center"><a href="https://wakatime.com"><img src="https://wakatime.com/share/@b7466724-f20d-4da3-92a1-b13c597dc688/c3a0cd95-f9db-4808-920e-3875b1e9e807.svg" width="650"/></a></p>
+
 # Stuff I'm working on
 
 ## JIVE
@@ -16,6 +18,7 @@
     <img src="https://pbs.twimg.com/media/EmiVPM9WEAIJEKT.jpg" align="right" width="500">
 </a>
 <p><em>Lead Developer, Designer<br>2018 - Present</em></p>
+<img src="https://wakatime.com/badge/user/b7466724-f20d-4da3-92a1-b13c597dc688/project/bd59b729-2a2e-4920-8ccf-35728d9acb0b.svg?style=for-the-badge">
 <p>Released four commercial audio plugins amassing over 20,000 active users.</p>
 <p>Babylon (2018) - comprehensive multi-band EQ, featured in the <a href="https://www.soundonsound.com/reviews/gramotech-audio-babylon-eq">February 2019 edition of Sound on Sound</a>.</p>
 <p>Pompeii (2018) - multi-band dynamics processor.</p>
@@ -27,6 +30,9 @@
 ## Focusrite Control 2
 <a href="https://focusrite.com/scarlett/4th-generation#:~:text=in%20the%20business.-,Focusrite%20Control%202,-Focusrite%20Control%202"><img width="500" align="right" alt="Focusrite Control 2" src="https://github.com/ImJimmi/ImJimmi/assets/19873870/8bb76bbc-0f3f-4946-9da1-4471006e4f80"></a>
 <p><em>Developer, General Nuisance<br>2023 - Present</em></p>
+<a href="https://wakatime.com/badge/user/b7466724-f20d-4da3-92a1-b13c597dc688/project/94635135-3071-4f7a-a47c-90428d3a5617">
+    <img src="https://wakatime.com/badge/user/b7466724-f20d-4da3-92a1-b13c597dc688/project/94635135-3071-4f7a-a47c-90428d3a5617.svg?style=for-the-badge">
+</a>
 <p>Focusrite's revamped control software for the 4th generation Scarlett range of audio interfaces.</p>
 
 <br><br><br><br><br><br><br><br><br><br>
