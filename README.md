@@ -1,4 +1,4 @@
-<p align="center"><a href="https://wakatime.com"><img src="https://wakatime.com/share/@b7466724-f20d-4da3-92a1-b13c597dc688/8630de52-b757-4e9c-82b5-af3440b9ca47.svg" width="650"/></a></p>
+<p align="center"><a href="https://wakatime.com"><img src="https://wakatime.com/share/@b7466724-f20d-4da3-92a1-b13c597dc688/ff3b3f51-4ba9-459f-8bf2-2cd34f112794.svg" width="650"/></a></p>
 
 # Stuff I'm working on
 
