@@ -6,7 +6,7 @@
 
 <a href="https://github.com/ImJimmi/JIVE"><img src="https://raw.githubusercontent.com/ImJimmi/JIVE/main/.github/assets/banner.svg" align="right" width="500"/></a>
 <p><em>Author<br>2021-Present</em></p>
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ImJimmi/JIVE?logo=github&style=for-the-badge">
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ImJimmi/JIVE?logo=github&style=for-the-badge&color=gold">
 <img src="https://wakatime.com/badge/user/b7466724-f20d-4da3-92a1-b13c597dc688/project/77094840-bc89-4606-be98-de9f33506a33.svg?style=for-the-badge" alt="wakatime">
 <p>A bundle of JUCE modules that completely overhaul the frontend development experience using concepts from popular web frontend frameworks like React.</p>
 
@@ -42,7 +42,7 @@
 
 <a href="https://github.com/ImJimmi/Contrast"><img src="https://github.com/ImJimmi/Contrast/blob/master/Press/Resources/Screenshot.png?raw=true" align="right" width="400"/></a>
 <p><em>Author<br>2020 - 2022</em></p>
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ImJimmi/Contrast?logo=github&style=for-the-badge">
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ImJimmi/Contrast?logo=github&style=for-the-badge&color=gold">
 <p>Bundle of audio plugins mostly built using the stock DSP tools provided by JUCE.</p>
 <p>I may come back to this in the future, but no immediate plans.</p>
 
