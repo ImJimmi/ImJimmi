@@ -2,16 +2,6 @@
 
 # Stuff I'm working on
 
-## JIVE
-
-<a href="https://github.com/ImJimmi/JIVE"><img src="https://raw.githubusercontent.com/ImJimmi/JIVE/main/.github/assets/banner.svg" align="right" width="500"/></a>
-<p><em>Author<br>2021-Present</em></p>
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ImJimmi/JIVE?logo=github&style=for-the-badge&color=gold">
-<img src="https://wakatime.com/badge/user/b7466724-f20d-4da3-92a1-b13c597dc688/project/77094840-bc89-4606-be98-de9f33506a33.svg?style=for-the-badge" alt="wakatime">
-<p>A bundle of JUCE modules that completely overhaul the frontend development experience using concepts from popular web frontend frameworks like React.</p>
-
-<br><br><br><br>
-
 ## Gramotech
 
 <a>
@@ -20,21 +10,24 @@
 </a>
 <p><em>Lead Developer, Designer<br>2018 - Present</em></p>
 <img src="https://wakatime.com/badge/user/b7466724-f20d-4da3-92a1-b13c597dc688/project/bd59b729-2a2e-4920-8ccf-35728d9acb0b.svg?style=for-the-badge">
+<p><a href="https://gramotech.uk" target="_blank">https://gramotech.uk</a></p>
 <p>Released four commercial audio plugins amassing over 20,000 active users.</p>
 <p>Babylon (2018) - comprehensive multi-band EQ, featured in the <a href="https://www.soundonsound.com/reviews/gramotech-audio-babylon-eq">February 2019 edition of Sound on Sound</a>.</p>
 <p>Pompeii (2018) - multi-band dynamics processor.</p>
 <p>GT Analyser (2019) - free spectrum analyser plugin, described as <em>"the most beautiful analyzer I've ever seen"</em> by <a href="https://www.reddit.com/r/audioengineering/comments/nri3e0/gramotech_spectrum_analyzer_is_the_most_beautiful/">some guy on reddit</a>.</p>
 <p>Contortion-24 (2020) - distortion and saturation plugin, featuring <em>"A WEIRD DEMO"</em> according to <a href="https://www.youtube.com/watch?v=cqasun5nzmA">some guy on YouTube</a>. He was right tbf.</p>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-## Focusrite Control 2
-<a href="https://focusrite.com/scarlett/4th-generation#:~:text=in%20the%20business.-,Focusrite%20Control%202,-Focusrite%20Control%202"><img width="500" align="right" alt="Focusrite Control 2" src="https://github.com/ImJimmi/ImJimmi/assets/19873870/8bb76bbc-0f3f-4946-9da1-4471006e4f80"></a>
-<p><em>Developer, General Nuisance<br>2023 - Present</em></p>
-<img src="https://wakatime.com/badge/user/b7466724-f20d-4da3-92a1-b13c597dc688/project/94635135-3071-4f7a-a47c-90428d3a5617.svg?style=for-the-badge">
-<p>Focusrite's revamped control software for the 4th generation Scarlett range of audio interfaces.</p>
-
 <br><br><br><br><br><br><br><br><br><br>
+
+## JIVE
+
+<a href="https://github.com/ImJimmi/JIVE"><img src="https://raw.githubusercontent.com/ImJimmi/JIVE/main/.github/assets/banner.svg" align="right" width="500"/></a>
+<p><em>Author<br>2021-Present</em></p>
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ImJimmi/JIVE?logo=github&style=for-the-badge&color=gold">
+<img src="https://wakatime.com/badge/user/b7466724-f20d-4da3-92a1-b13c597dc688/project/77094840-bc89-4606-be98-de9f33506a33.svg?style=for-the-badge" alt="wakatime">
+<p>A bundle of JUCE modules that completely overhaul the frontend development experience using concepts from popular web frontend frameworks like React.</p>
+
+<br><br>
 
 # Stuff I've worked on previously
 
@@ -55,6 +48,14 @@
 <p>An open-source compressor plugin I started working on but never finished. The idea was to have three different "characters" - Digital, which would aim to keep the signal as clean as possible, Vintage, which would apply saturation, and Look-Ahead, which is self-explainatory.</p>
 
 <br><br><br><br><br><br><br><br><br><br><br>
+
+## Focusrite Control 2
+<a href="https://focusrite.com/scarlett/4th-generation#:~:text=in%20the%20business.-,Focusrite%20Control%202,-Focusrite%20Control%202"><img width="500" align="right" alt="Focusrite Control 2" src="https://github.com/ImJimmi/ImJimmi/assets/19873870/8bb76bbc-0f3f-4946-9da1-4471006e4f80"></a>
+<p><em>Developer, Platform Engineer<br>2023 - Present</em></p>
+<img src="https://wakatime.com/badge/user/b7466724-f20d-4da3-92a1-b13c597dc688/project/94635135-3071-4f7a-a47c-90428d3a5617.svg?style=for-the-badge">
+<p>Focusrite's revamped control software for the 4th generation Scarlett range of audio interfaces.</p>
+
+<br><br><br><br><br><br>
 
 ## Vocaster Hub
 
