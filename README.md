@@ -89,8 +89,6 @@
 <a href="https://forum.juce.com/u/imjimmi"><img src="https://assets.juce.com/juce/JUCE_banner_github.png" align="right" width="500"/></a>
 <p><em>Listed contributor, regular forum contributor<br>2017-Present</em></p>
 
-Proud author of a commit that added an `= 0` default argument to a function hardly anyone uses, thus earning myself bragging rights as an official JUCE contributor.
-
 <br><br>
 
 ## Alliance of Numpties
