@@ -89,7 +89,7 @@
 <a href="https://forum.juce.com/u/imjimmi"><img src="https://assets.juce.com/juce/JUCE_banner_github.png" align="right" width="500"/></a>
 <p><em>Listed contributor, regular forum contributor<br>2017-Present</em></p>
 
-<br><br>
+<br><br><br><br><br><br>
 
 ## Alliance of Numpties
 
