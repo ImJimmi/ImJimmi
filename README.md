@@ -51,7 +51,7 @@
 
 ## Focusrite Control 2
 <a href="https://focusrite.com/scarlett/4th-generation#:~:text=in%20the%20business.-,Focusrite%20Control%202,-Focusrite%20Control%202"><img width="500" align="right" alt="Focusrite Control 2" src="https://github.com/ImJimmi/ImJimmi/assets/19873870/8bb76bbc-0f3f-4946-9da1-4471006e4f80"></a>
-<p><em>Developer, Platform Engineer<br>2023 - Present</em></p>
+<p><em>Developer, Platform Engineer<br>2023 - 2025</em></p>
 <img src="https://wakatime.com/badge/user/b7466724-f20d-4da3-92a1-b13c597dc688/project/94635135-3071-4f7a-a47c-90428d3a5617.svg?style=for-the-badge">
 <p>Focusrite's revamped control software for the 4th generation Scarlett range of audio interfaces.</p>
 
