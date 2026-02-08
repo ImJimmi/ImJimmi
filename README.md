@@ -17,7 +17,7 @@
 <p>GT Analyser (2019) - free spectrum analyser plugin, described as <em>"the most beautiful analyzer I've ever seen"</em> by <a href="https://www.reddit.com/r/audioengineering/comments/nri3e0/gramotech_spectrum_analyzer_is_the_most_beautiful/">some guy on reddit</a>.</p>
 <p>Contortion-24 (2020) - distortion and saturation plugin, featuring <em>"A WEIRD DEMO"</em> according to <a href="https://www.youtube.com/watch?v=cqasun5nzmA">some guy on YouTube</a>. He was right tbf.</p>
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 ## JIVE
 
@@ -28,6 +28,15 @@
 <p>A bundle of JUCE modules that completely overhaul the frontend development experience using concepts from popular web frontend frameworks like React.</p>
 
 <br><br>
+
+## SLATE + ASH
+
+<a href="https://slateandash.com/"><img src="https://slateandash.com/cdn/shop/files/everrrr_2560x.jpg?v=1683198025" align="right" width="500"/></a>
+<p><em>Senior Developer<br>2026-Present</em></p>
+<img src="https://wakatime.com/badge/user/b7466724-f20d-4da3-92a1-b13c597dc688/project/5202bf80-d468-4142-bcfc-cf799a6cbffc.svg?style=for-the-badge">
+<p>Building some cool new products with S+A.</p>
+
+<br><br><br><br><br><br><br><br><br>
 
 # Stuff I've worked on previously
 
