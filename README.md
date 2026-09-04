@@ -2,6 +2,17 @@
 
 # Stuff I'm working on
 
+## Marshall
+
+<a>
+    <img src="https://live.staticflickr.com/5345/6903764290_989d7acd84_b.jpg" align="right" width="500"/>
+</a>
+<p><em>Software Developer<br>2026 - Present</em></p>
+
+<p>Building loud noisy things.</p>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 ## Gramotech
 
 <a>
@@ -29,16 +40,24 @@
 
 <br><br>
 
-## SLATE + ASH
+## create-juce-app
 
-<a href="https://slateandash.com/"><img src="https://slateandash.com/cdn/shop/files/everrrr_2560x.jpg?v=1683198025" align="right" width="500"/></a>
-<p><em>Senior Developer<br>2026-Present</em></p>
-<img src="https://wakatime.com/badge/user/b7466724-f20d-4da3-92a1-b13c597dc688/project/5202bf80-d468-4142-bcfc-cf799a6cbffc.svg?style=for-the-badge">
-<p>Building some cool new products with S+A.</p>
+<a href="https://github.com/ImJimmi/create-juce-app"><img src="https://github.com/ImJimmi/create-juce-app/raw/main/templates/Icon-512x.png" align="right" width="256"/></a>
+<p><em>Author<br>2026-Present</em></p>
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ImJimmi/create-juce-app?logo=github&style=for-the-badge&color=gold">
+<p>The fastest way to create production-ready JUCE projects.</p>
 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br>
 
 # Stuff I've worked on previously
+
+## SLATE + ASH
+
+<a href="https://slateandash.com/products/halo"><img src="https://cdn.shopify.com/s/files/1/0029/7785/7602/files/6.jpg" align="right" width="500"/></a>
+<p><em>Software Developer<br>2026-Present</em></p>
+<p>Co-developed S+A's debut effects plugin, HALO.</p>
+
+<br><br><br><br><br><br><br><br><br><br>
 
 ## Contrast
 
